@@ -1,6 +1,6 @@
 ## Next Auth
 
-this repository is a small part of the main project . i decided to take the project to small pieces
+this repository is a small part of the main project . i decided to take the project to small pieaces
 so it can be easier to understand
 
 ## Description
